@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Reyam 👋
 
-<!--
-**Reyamdev/Reyamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development student at 42, currently focused on C,
+systems programming, Linux, and low-level.
 
-Here are some ideas to get you started:
+## Currently working on
+- 42 Core curriculum
+- C and Unix programming
+- Data structures and algorithms
+- Linux experimentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+C • Python • C++ • Bash • Git • Linux
