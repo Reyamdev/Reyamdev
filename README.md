@@ -10,4 +10,4 @@ systems programming, Linux, and low-level.
 - Linux experimentation
 
 ## Tech
-C • Python • C++ • Bash • Git • Linux
+C • Python • C++ • HTML • CSS • SQL • Bash • Git • Linux
