@@ -8,6 +8,7 @@ systems programming, Linux, and low-level.
 - C and Unix programming
 - Data structures and algorithms
 - Linux experimentation
+- Web3 development
 
 ## Tech
 C • Python • C++ • HTML • CSS • SQL • Bash • Git • Linux
