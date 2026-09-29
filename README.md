@@ -1,7 +1,8 @@
 # Hey, I'm Reyam 👋
 
-Software development student at 42, currently focused on C,
-systems programming, Linux, and low-level.
+<p align="center">
+  <img src="./assets/banner.gif" width="450">
+</p>
 
 ## Currently working on
 - 42 Core curriculum
