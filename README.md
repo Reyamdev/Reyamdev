@@ -1,7 +1,7 @@
 # Hey, I'm Reyam 👋
 
 <p align="center">
-  <img src="./assets/banner.gif" width="450">
+  <img src="./assets/banner.gif" width=1000">
 </p>
 
 ## Currently working on
